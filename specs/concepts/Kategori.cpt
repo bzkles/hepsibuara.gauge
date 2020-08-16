@@ -1,0 +1,10 @@
+
+# Kategori Senaryosu <exmplekategorisi> Tıkla ve <altkategori> ye Git
+//* "ul[class='MenuItems-1Sj7h']" li herhangi bir elementin üzerine tıkla
+
+//* Css "span[class='MenuItems-5_2RN']" elementinin üzerine gel
+//* Css "a[class='ChildMenuItems-3R6bj item-894']" elementine tıkla
+
+
+//#  Sol Taraftaki Markalar Alanından <marka> Seç
+//* Css i "key" olan element ile sepetteki ürün sayısını kontrol et

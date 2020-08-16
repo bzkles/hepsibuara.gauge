@@ -1,0 +1,7 @@
+
+# Sepet Kontrol
+//* Css i "a[class='OldMyAccount-WTOLC OldMyAccount-1kR4k']" olan elemente tıkla
+* Css i "span[id='cartItemCount']" olan element ile sepetteki ürün sayısını kontrol et
+//* Css i "a[class='OldMyAccount-WTOLC OldMyAccount-1kR4k']" olan elemente tıkla
+//* "span[id='cartItemCount']" li elementteki ürünsayisi ile "h1[class='h1']" deki elementte yazan "bzkl, sepetin şu an boş." ile mantıklı mı
+

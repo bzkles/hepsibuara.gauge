@@ -1,0 +1,14 @@
+
+
+# Ana Sayfadan Login Ekranını Aç
+* "5" saniye bekle
+* Css "div[id='myAccount']" elementinin üzerine gel
+* Css "a[id='login']" elementine tıkla
+* "2" saniye bekle
+
+# Kullanıcı Adı <email> ve Şifre <password> Bilgileri İle Giriş Yap
+* Css "input[id='txtUserName']" elementini bul ve <email> değerini yaz
+* Css "input[id='txtPassword']" elementini bul ve <password> değerini yaz
+* Css "button[id='btnLogin']" elementine tıkla
+* "2" saniye bekle
+* "span[class='OldMyAccount-FUOWk']" elementi ile kullanıcı adı "bzkl test" uyusuyor mu kontrol et
